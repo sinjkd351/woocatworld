@@ -25,12 +25,11 @@ https://github.com/dscalzi/HeliosLauncher
 
 ---
 
-## 변경 사항
 
-변경 가능 항목
+### 변경 가능 항목
 
 로고 이미지
-[<p align="center"><img src="https://github.com/BabyBear7/launcher-demo/blob/main/img/logo%20sample.png" alt="gh actions">]
+<p align="center"><img src="https://github.com/BabyBear7/launcher-demo/blob/main/img/logo%20sample.png" alt="gh actions">
 
 ### Note on Third-Party Usage
 

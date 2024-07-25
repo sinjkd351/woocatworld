@@ -24,9 +24,9 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 * [Nebula (Create Distribution.json)][nebula]
 * [v2 Rewrite Branch (Inactive)][v2branch]
 
-The best way to contact the developers is on Discord.
+The best way to contact the developers is on Discord.  
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord](https://discordapp.com/api/guilds/1254452523905974272/embed.png?style=banner3)][discord]
 
 ---
 

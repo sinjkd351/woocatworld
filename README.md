@@ -3,6 +3,12 @@
 <h1 align="center">Launcher Demo</h1>
 
 
+<h1>
+This launcher was created with the open-source code available at
+https://github.com/dscalzi/HeliosLauncher
+</h1>
+
+
 ## Features
 
 * 🔒 Full account management.

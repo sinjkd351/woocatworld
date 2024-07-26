@@ -8,8 +8,6 @@ https://github.com/dscalzi/HeliosLauncher
 
 <h1 align="center">Launcher Demo</h1>
 
----
-
 ## 런처 설명
 
 <h3>서버 제작 시 아래와 같은 정보가 필요합니다!</h3>
@@ -26,7 +24,7 @@ https://github.com/dscalzi/HeliosLauncher
 ---
 
 
-### 일반 제작 변경 가능 항목
+## 일반 제작 변경 가능 항목
 
 **서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면**
 

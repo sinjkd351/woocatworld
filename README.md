@@ -28,7 +28,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ### 일반 제작 변경 가능 항목
 
-<h5 style="color:DodgerBlue;"> 서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면</h5>
+<h5 style="border:2px solid DodgerBlue;"> 서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면</h5>
 아래의 샘플은 준우 공방의 아림 셀러님께서 제작하신 샘플입니다.
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20sample1.png" alt="gh actions">
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20sample2.png" alt="gh actions">

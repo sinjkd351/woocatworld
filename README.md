@@ -12,7 +12,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ## 런처 설명
 
-<h5>서버 제작 시 아래와 같은 정보가 필요합니다!</h5>
+<h3>서버 제작 시 아래와 같은 정보가 필요합니다!</h3>
 
 1. 프로젝트 이름(런처 제작 시 사용될 이름입니다. 만약 한글로 하신다면 한글명과 영문명 둘다 기재해주세요!)
 2. 서버 버전
@@ -28,7 +28,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ### 변경 가능 항목
 
-로고 이미지
+<h3> 로고 이미지 </h3>
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/blob/main/img/logo%20sample.png" alt="gh actions">
 
 ### Note on Third-Party Usage

@@ -24,8 +24,8 @@ https://github.com/dscalzi/HeliosLauncher
 ---
 
 <details>
-<summary>일반 제작 변경 가능 항목</summary>
-<div markdown="1">       
+<summary><h2>일반 제작 변경 가능 항목</h2></summary>
+<div>
 
 
 > [!NOTE]

@@ -23,8 +23,10 @@ https://github.com/dscalzi/HeliosLauncher
 
 ---
 
+<details>
+<summary>일반 제작 변경 가능 항목</summary>
+<div markdown="1">       
 
-## 일반 제작 변경 가능 항목
 
 > [!NOTE]
 > 서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면
@@ -33,6 +35,10 @@ https://github.com/dscalzi/HeliosLauncher
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20sample1.png" alt="gh actions">
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20sample2.png" alt="gh actions">
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20loading.gif" alt="gh actions">
+
+
+</div>
+</details>
 
 
 

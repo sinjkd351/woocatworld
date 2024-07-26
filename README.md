@@ -24,10 +24,11 @@ https://github.com/dscalzi/HeliosLauncher
 ---
 
 <details>
-<summary><h2>일반 제작 변경 가능 항목</h2></summary>
+<summary><h2>[일반 제작] 변경 가능 항목</h2></summary>
 <div markdown="1">
   <ul>
-    <li>서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면</li>
+    <li>[일반 제작]은 지인서버에 최적화된 제작 방식입니다!</li>
+    <li>서버 메인 로고 이미지, 백그라운드 배경, 서버 아이콘, 런처 exe 아이콘, 런처 로딩 화면, 링크</li>
 
 ###### 아래의 샘플은 준우 공방의 아림 셀러님께서 제작하신 샘플입니다.
 <p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/launcher%20sample1.png" alt="gh actions">
@@ -38,31 +39,32 @@ https://github.com/dscalzi/HeliosLauncher
 </div>
 </details>
 
+<details>
+<summary><h2>[커스텀 제작] 변경 가능 항목</h2></summary>
+<div markdown="1">
+  <ul>
+    <li>[커스텀 제작]은 스트리머 서버 등 런처의 모든 항목을 커스텀하기 위해 최적화된 제작 방식입니다!</li>
+    <li>게임 해상도 기본 값, option.txt 값, 쉐이더팩, 리소스팩, server.dat 등의 런처 커스텀에 관한 모든 것</li>
+
+<h3 align="center">샘플 이미지 준비중</h3>
+
+</ul>
+</div>
+</details>
 
 
 
 
-### Note on Third-Party Usage
 
-Please give credit to the original author and provide a link to the original source. This is free software, please do at least this much.
+## 문의사항
 
-For instructions on setting up Microsoft Authentication, see https://github.com/dscalzi/HeliosLauncher/blob/master/docs/MicrosoftAuth.md.
-
----
-
-## Resources
-
-* [Wiki][wiki]
-* [Nebula (Create Distribution.json)][nebula]
-* [v2 Rewrite Branch (Inactive)][v2branch]
-
-관련 문의는 디스코드
+관련 문의는 디스코드를 통해 부탁드립니다!
 
 [![discord](https://discordapp.com/api/guilds/1249255497471758386/embed.png?style=banner3)][discord]
 
 ---
 
-### See you ingame.
+### 해당 런처는 헬리오스 런처를 기반으로 제작됩니다.
 
 
 [nodejs]: https://nodejs.org/en/ 'Node.js'

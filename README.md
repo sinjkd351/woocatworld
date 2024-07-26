@@ -44,7 +44,7 @@ https://github.com/dscalzi/HeliosLauncher
 <div markdown="1">
   <ul>
     <li>[커스텀 제작]은 스트리머 서버 등 런처의 모든 항목을 커스텀하기 위해 최적화된 제작 방식입니다!</li>
-    ~~런처 NEWS~~, 별도 폰트, 깃 readme.md 커스텀, 게임 해상도 기본 값, option.txt 값, 쉐이더팩, 리소스팩, server.dat 등의 런처 커스텀에 관한 모든 것
+  ~~런처 NEWS~~, 별도 폰트, 깃 readme.md 커스텀, 게임 해상도 기본 값, option.txt 값, 쉐이더팩, 리소스팩, server.dat 등의 런처 커스텀에 관한 모든 것
 
 <h3 align="center">[샘플 이미지 준비중]</h3>
 

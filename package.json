@@ -1,9 +1,9 @@
 {
   "name": "Demo",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "productName": "Demo",
   "description": "Modded Minecraft Launcher",
-  "author": "babybear(https://github.com/BabyBear7)",
+  "author": "babybear(https://github.com/BabyBear7/launcher-demo)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/BabyBear7/launcher-demo",
   "bugs": {

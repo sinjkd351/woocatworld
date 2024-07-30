@@ -8,8 +8,6 @@ https://github.com/dscalzi/HeliosLauncher
 
 <h1 align="center">Launcher Demo</h1>
 
-## 런처 설명
-
 <h2>커스텀 런처란?</h2>
 
 마인크래프트 정품 런처를 대신하여 사용할 수 있는 마인크래프트 접속기입니다!
@@ -32,6 +30,8 @@ https://github.com/dscalzi/HeliosLauncher
 
 
 ---
+## 런처 제작 안내
+
 
 <details>
 <summary><h2>[일반 제작] 변경 가능 항목</h2></summary>

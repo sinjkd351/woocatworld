@@ -38,7 +38,7 @@ https://github.com/dscalzi/HeliosLauncher
 </ul>
 </div>
 </details>
-
+<!-- 
 <details>
 <summary><h2>[커스텀 제작] 변경 가능 항목</h2></summary>
 <div markdown="1">
@@ -50,7 +50,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 </ul>
 </div>
-</details>
+</details> -->
 
 
 ---

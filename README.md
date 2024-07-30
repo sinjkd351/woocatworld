@@ -17,6 +17,9 @@ https://github.com/dscalzi/HeliosLauncher
 아래의 정보들을 확인해주세요!
 
 
+---
+
+## 런처 제작 안내
 
 <h3>런처 제작 시 아래와 같은 정보가 필요합니다!</h3>
 
@@ -30,7 +33,6 @@ https://github.com/dscalzi/HeliosLauncher
 
 
 ---
-## 런처 제작 안내
 
 
 <details>

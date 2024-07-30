@@ -12,9 +12,9 @@ https://github.com/dscalzi/HeliosLauncher
 
 마인크래프트 정품 런처를 대신하여 사용할 수 있는 마인크래프트 접속기입니다!<br>
 서버에서 사용하는 모드와 쉐이더팩, 리소스팩 등을 간편하고 쉽게 자동으로 설치해주며, <br>런처 실행 시 서버에 바로 접속하게 설정도 가능합니다!<br><br>
-마인크래프트 정품 런처보다 이쁘고 간편한 커스텀 런처 다들 사용해보시고 싶으신가요?<br><br>
-<p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/LauncherDemo.gif" alt="gh actions">
+<p align="center"><img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/LauncherDemo.gif" alt="gh actions" width="200" height="400"/>
 
+마인크래프트 정품 런처보다 이쁘고 간편한 커스텀 런처 다들 사용해보시고 싶으신가요?<br><br>
 아래의 정보들을 확인해주세요!
 
 

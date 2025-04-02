@@ -1,6 +1,6 @@
-appId: 'launcherDemo'
-productName: 'LauncherDemo'
-artifactName: '${productName}-setup-${version}.${ext}'
+appId: 'HEALING'
+productName: 'HEALING'
+artifactName: 'HEALING-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 babybear (original author: © 2018-2024 Daniel Scalzi)'
 

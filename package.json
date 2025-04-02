@@ -1,13 +1,13 @@
 {
-  "name": "HEALING",
+  "name": "Demo",
   "version": "1.0.0",
-  "productName": "힐링놀이터",
+  "productName": "Demo",
   "description": "Modded Minecraft Launcher",
   "author": "babybear(https://github.com/BabyBear7/launcher-demo)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dlworn5434/HEALING",
+  "homepage": "https://github.com/BabyBear7/launcher-demo",
   "bugs": {
-    "url": "https://github.com/dlworn5434/HEALING/issues"
+    "url": "https://github.com/BabyBear7/launcher-demo/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dlworn5434/HEALING.git"
+    "url": "git+https://github.com/BabyBear7/launcher-demo.git"
   }
 }

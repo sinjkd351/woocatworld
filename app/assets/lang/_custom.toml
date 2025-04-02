@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "힐링 놀이터"
+title = "Launcher-Demo"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dlworn5434/HEALING"
+mediaGitHubURL = "https://github.com/BabyBear7/launcher-demo"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/FKDNg2AD"
+mediaDiscordURL = "https://discord.gg/ReY7HJY7w6"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dlworn5434/HEALING"
-supportLink = "https://github.com/dlworn5434/HEALING/issues"
+sourceGithubLink = "https://github.com/BabyBear7/launcher-demo"
+supportLink = "https://github.com/BabyBear7/launcher-demo/issues"
 
 [ejs.welcome]
-welcomeHeader = "힐링 놀이터에 오신 것을 환영합니다."
+welcomeHeader = "런처 데모 페이지입니다"
 welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
 welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"

@@ -1,13 +1,13 @@
 {
-  "name": "Demo",
+  "name": "woocatworld",
   "version": "1.0.0",
-  "productName": "Demo",
+  "productName": "woocatworld",
   "description": "Modded Minecraft Launcher",
   "author": "babybear(https://github.com/BabyBear7/launcher-demo)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/BabyBear7/launcher-demo",
   "bugs": {
-    "url": "https://github.com/BabyBear7/launcher-demo/issues"
+    "url": "https://github.com/sinjkd351/woocatworld/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BabyBear7/launcher-demo.git"
+    "url": "git+https://github.com/sinjkd351/woocatworld.git"
   }
 }
